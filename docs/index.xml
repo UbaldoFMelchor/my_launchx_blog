@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Ubaldo F Melchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://ubaldofmelchor.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ubaldofmelchor.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi camino por launch-x</title>
+      <link>https://ubaldofmelchor.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubaldofmelchor.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! te contaré todo lo que aprendido en este viaje: -python -logica de programacion -command line -git -github -html -css -js -node js
+este blog se estara actualizando en las proximas semanas
+gracias por leer.</description>
+    </item>
+    
     <item>
       <title>la Cultura del de un desarrollad@r de software</title>
       <link>https://ubaldofmelchor.github.io/my_launchx_blog/posts/intro/</link>
